@@ -1,6 +1,7 @@
 ﻿//
 // BusinessTier:  business logic, acting as interface between UI and data store.
 //
+//Based off skeleton code by Joe Hummel
 
 using System;
 using System.Collections.Generic;

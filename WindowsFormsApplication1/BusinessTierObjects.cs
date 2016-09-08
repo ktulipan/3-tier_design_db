@@ -12,6 +12,9 @@
 // of these objects, but instead calling the BusinessTier logic 
 // class ("Business") to obtain these objects.
 //
+//Based off skeleton by Joe Hummel
+//
+// --Kyle Tulipano
 
 using System;
 using System.Collections.Generic;
